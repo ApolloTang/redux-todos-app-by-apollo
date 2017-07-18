@@ -1,5 +1,5 @@
 {
-  "name": "redux-todo-app-by-apollo",
+  "name": "redux-todos-app-by-apollo",
   "description": "A todo app with redux",
   "version": "1.0.0",
   "main": "webpack.config.js",
